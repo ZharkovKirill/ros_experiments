@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/melodic/include/**",
+                "/home/kirya/project/ROS_ENV/src/test/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "compilerPath": "/usr/bin/gcc",
+            "compileCommands":"${workspaceFolder}/build/compile_commands.json" 
+        }
+    ],
+    "version": 4
+
+}
